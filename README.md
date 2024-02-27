@@ -28,14 +28,6 @@ You can customize the application according to your needs:
 
 - **Styling:** Add CSS stylesheets to enhance the visual appeal of the application.
 
-## Deployment
-
-Deploy the application to a web server to make it accessible online. You can use platforms like Heroku, AWS, or Google Cloud Platform for deployment.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/barandev/ZIP-to-PDF-Converter)](https://github.com/barandev/ZIP-to-PDF-Converter/issues)
 [![GitHub stars](https://img.shields.io/github/stars/barandev/ZIP-to-PDF-Converter)](https://github.com/barandev/ZIP-to-PDF-Converter/stargazers)
